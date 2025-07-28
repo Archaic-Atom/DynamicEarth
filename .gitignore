@@ -10,3 +10,4 @@ outputs
 third_party/SimFeatUp/build
 *.so
 *.txt
+.DS_Store
