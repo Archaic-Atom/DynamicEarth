@@ -1,0 +1,1 @@
+from ._detection_func import dynamic_earth_method

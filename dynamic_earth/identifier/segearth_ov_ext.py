@@ -1,5 +1,7 @@
 import sys
+
 sys.path.append("third_party/SegEarth_OV")
+sys.path.append("Method/DynamicEarth/third_party/SegEarth_OV")
 
 import torch
 import torch.nn as nn
